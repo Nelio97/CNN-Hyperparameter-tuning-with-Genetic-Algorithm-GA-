@@ -16,7 +16,7 @@ import sys
 #import ultratb.py
 #sys.excepthook = ultratb.ColorTB()
 
-import ga_v4 as ga
+import ga
 import random
 import numpy as np
 import datetime
